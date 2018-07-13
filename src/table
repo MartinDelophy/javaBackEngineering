@@ -1,0 +1,212 @@
+
+            "ridb_ind_finwag_ty1"
+            ,
+
+            "ridb_ind_fishery_cy1"
+            ,
+
+            "ridb_ind_investresult"
+            ,
+
+            "ridb_ind_marengarc_cy10"
+            ,
+
+            "ridb_ind_marre_cy11_1"
+            ,
+
+            "ridb_ind_marreen_cy11"
+            ,
+
+            "ridb_ind_martran_cy13"
+            ,
+
+            "ridb_ind_martran_cy13_1"
+            ,
+
+            "ridb_ind_marves_cy6"
+            ,
+
+            "ridb_ind_minient_cy4"
+            ,
+
+            "ridb_ind_minient_cy4_1"
+            ,
+
+            "ridb_ind_minient_cy4_2"
+            ,
+
+            "ridb_ind_port_cy14"
+            ,
+
+            "ridb_ind_port_cy14_1"
+            ,
+
+            "ridb_ind_rdact_ty2"
+            ,
+
+            "ridb_ind_relunit"
+            ,
+
+            "ridb_industrycla"
+            ,
+
+            "ridb_industrytab"
+            ,
+
+            "ridb_industrytabtofield"
+            ,
+
+            "ridb_mareng_cy7"
+            ,
+
+            "ridb_mareng_cy7_1"
+            ,
+
+            "ridb_natecocode"
+            ,
+
+            "ridb_relatedindcla"
+            ,
+
+            "ridb_relatedindtab"
+            ,
+
+            "ridb_relunit"
+            ,
+
+            "ridb_survey"
+            ,
+
+            "shdb_lplistlib"
+            ,
+
+            "shdb_share_infopub"
+            ,
+
+            "shdb_std_define"
+            ,
+
+            "sidb_majorbus"
+            ,
+
+            "sidb_mechanismtype"
+            ,
+
+            "sidb_admin_divsion"
+            ,
+
+            "sidb_bussstatus"
+            ,
+
+            "sidb_dir_mar_relunit"
+            ,
+
+            "sidb_entholding"
+            ,
+
+            "sidb_entregistertype"
+            ,
+
+            "sidb_investunit"
+            ,
+
+            "sidb_majoract"
+            ,
+
+            "sidb_majorbus"
+            ,
+
+            "sidb_mar_indcode"
+            ,
+
+            "sidb_mechanismtype"
+            ,
+
+            "sidb_relasea_investdata"
+            ,
+
+            "sidb_relaseainvest"
+            ,
+
+            "sidb_taskassign"
+            ,
+
+            "sidb_taskdelay"
+            ,
+
+            "sidb_themtask"
+            ,
+
+            "sys_acl"
+            ,
+
+            "sys_role"
+            ,
+
+            "sys_role_acl"
+            ,
+
+            "sys_user"
+            ,
+
+            "sys_user_role"
+            ,
+
+            "thdb_oce_bstiu"
+            ,
+
+            "thdb_oce_unit"
+            ,
+
+            "thdb_river_stu"
+            ,
+
+            "thdb_circulation_stu"
+            ,
+
+            "thdb_disaster_loss"
+            ,
+
+            "thdb_disprevent_stu"
+            ,
+
+            "thdb_intosea_type"
+            ,
+
+            "thdb_island_stu"
+            ,
+
+            "thdb_mararound_stu"
+            ,
+
+            "thdb_oce_conservice"
+            ,
+
+            "thdb_oce_prostatus"
+            ,
+
+            "thdb_oce_relatedunit"
+            ,
+
+            "thdb_oce_relunit"
+            ,
+
+            "thdb_oce_relunitinfo"
+            ,
+
+            "thdb_outfall_stu"
+            ,
+
+            "thdb_outfall_type"
+            ,
+
+            "thdb_rec_bstiu"
+            ,
+
+            "thdb_rec_stu"
+            ,
+
+            "thdb_rec_unit"
+            ,
+
+            "users"
